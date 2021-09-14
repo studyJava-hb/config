@@ -1,1 +1,2 @@
-<--configserver-->
+config:
+   info: "config-client,congif-dev,version=1"
